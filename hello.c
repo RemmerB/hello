@@ -1,12 +1,18 @@
+/**
+ * Author: Ed Watson
+ *         ewatson10@unl.edu
+ * Date: 2025/08/26
+ *
+ * A simple hello world program in C
+ *
+ */
 #include <stdlib.h>
 #include <stdio.h>
 
 int main(int argc, char **argv) {
 
-  printf("Remmer Buss5$\n");
-  printf("Computer science\n");
+
   printf("Ed Watson!\n");
-  printf("ComputerScience\n");
+  printf("Computer Engineering\n");
   return 0;
 }
-
